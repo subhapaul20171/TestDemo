@@ -3,8 +3,8 @@ package com.subha.demo;
 import java.io.File;
 
 public class GetFileSize {
-	
-	private static File file = null;
+
+private static File file = null;
 
     public  static String getFileSize(File file)
     {
